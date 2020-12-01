@@ -1,0 +1,13 @@
+version_number=1
+model_type=topmodel
+base_folder=
+label_count=818
+top_model_epochs=30
+epochs=10
+model_save_period=5
+design_codes_file=818-designCodes.txt
+num_of_gpus=8
+base_ensemble_folder=
+log_file_name=
+base_index_folder=
+app_prefix=/
